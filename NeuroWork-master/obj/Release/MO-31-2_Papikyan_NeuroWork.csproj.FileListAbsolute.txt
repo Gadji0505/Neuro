@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\bin\Release\MO-31-2_Papikyan_NeuroWork.exe.config
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\bin\Release\MO-31-2_Papikyan_NeuroWork.exe
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\bin\Release\MO-31-2_Papikyan_NeuroWork.pdb
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO-31-2_Papikyan_NeuroWork.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO_31_2_Papikyan_NeuroWork.FormMain.resources
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO_31_2_Papikyan_NeuroWork.Properties.Resources.resources
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO-31-2_Papikyan_NeuroWork.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO-31-2_Papikyan_NeuroWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO-31-2_Papikyan_NeuroWork.exe
+C:\Users\Admin\source\repos\MO-31-2_Papikyan_NeuroWork\obj\Release\MO-31-2_Papikyan_NeuroWork.pdb
